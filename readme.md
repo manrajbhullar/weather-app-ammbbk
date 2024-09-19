@@ -36,6 +36,7 @@ In this pair programming activity, you will work with your partner to design and
 # Deliverables
 
 - Add a link to your deployed weather app here in the README.
-- LINK: [Weather App](https://weather-app-1.netlify.app/)
+- LINK: [Weather App](https://manrajbhullar.github.io/weather-app-ammbbk/)
+- LINK: https://manrajbhullar.github.io/weather-app-ammbbk/
 - Commit and push your code to a GitHub repository.
 - Submit the GitHub repository link into D2L.
