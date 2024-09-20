@@ -58,7 +58,7 @@ h4:hover {
 
 #weatherStats {
     padding: 15px;
-    text-align: center;
+    text-align: left;
 }
 
 #current {
@@ -83,6 +83,9 @@ footer {
     bottom: 0;
     left: 0;
     font-weight: bold;
+}
+footer a{
+    color: teal;
 }
 
 #teamLink:visited {
